@@ -30,7 +30,7 @@ def train_step(features, targets, weights, bias, learning_rate):
 
 But the real magic happens in those weight updates. Each adjustment, guided by the gradient, is a step toward understanding.
 
-![Gradient Descent Journey](gradient_descent_journey.png)
+![Gradient Descent Journey](my_post.png)
 *The learning journey: From chaotic loss to smooth convergence (left) and the path through parameter space like adjusting DJ knobs (right)*
 
 ## The DJ Mixer Analogy That Changed Everything
