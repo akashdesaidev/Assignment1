@@ -1,0 +1,190 @@
+{
+  "total_questions": 15,
+  "passes": 10,
+  "retries": 6,
+  "final_failures": 5,
+  "kb_questions": 10,
+  "edge_questions": 5,
+  "details": [
+    {
+      "question": "What is the capital of France?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "Berlin",
+        "status": "RETRY",
+        "reason": "answer differs from KB"
+      },
+      "final_status": "PASS",
+      "attempt2": {
+        "answer": "Paris",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      }
+    },
+    {
+      "question": "How many continents are there?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "7",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "Jupiter",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "Who wrote Romeo and Juliet?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "William Shakespeare",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "Au",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "In what year did World War II end?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "1945",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "2",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "How many sides does a hexagon have?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "6",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "299,792,458 meters per second",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "is_kb_question": true,
+      "attempt1": {
+        "answer": "Leonardo da Vinci",
+        "status": "PASS",
+        "reason": "matches KB (similarity: 1.00)"
+      },
+      "final_status": "PASS"
+    },
+    {
+      "question": "What is the capital of Atlantis?",
+      "is_kb_question": false,
+      "attempt1": {
+        "answer": "According to my knowledge, it's definitely true",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      },
+      "final_status": "RETRY",
+      "attempt2": {
+        "answer": "According to my knowledge, it's definitely true",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      }
+    },
+    {
+      "question": "How many moons does the planet Zorbex have?",
+      "is_kb_question": false,
+      "attempt1": {
+        "answer": "I'm confident it's related to quantum mechanics",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      },
+      "final_status": "RETRY",
+      "attempt2": {
+        "answer": "Based on recent studies, the answer is yes",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      }
+    },
+    {
+      "question": "Who invented the quantum spoon?",
+      "is_kb_question": false,
+      "attempt1": {
+        "answer": "I'm confident it's related to quantum mechanics",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      },
+      "final_status": "RETRY",
+      "attempt2": {
+        "answer": "Based on recent studies, the answer is yes",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      }
+    },
+    {
+      "question": "What is the molecular weight of happiness?",
+      "is_kb_question": false,
+      "attempt1": {
+        "answer": "Based on recent studies, the answer is yes",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      },
+      "final_status": "RETRY",
+      "attempt2": {
+        "answer": "Based on recent studies, the answer is yes",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      }
+    },
+    {
+      "question": "In which year will robots take over the world?",
+      "is_kb_question": false,
+      "attempt1": {
+        "answer": "According to my knowledge, it's definitely true",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      },
+      "final_status": "RETRY",
+      "attempt2": {
+        "answer": "According to my knowledge, it's definitely true",
+        "status": "RETRY",
+        "reason": "out-of-domain"
+      }
+    }
+  ]
+}

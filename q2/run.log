@@ -1,0 +1,108 @@
+Hallucination Detection Run - 2025-06-22 23:58:59
+================================================================================
+
+[2025-06-22 23:58:59] Attempt 1
+Q: What is the capital of France?
+A: Berlin
+Status: RETRY - answer differs from KB
+--------------------------------------------------------------------------------
+[2025-06-22 23:58:59] Attempt 2
+Q: What is the capital of France?
+A: Paris
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:58:59] Attempt 1
+Q: How many continents are there?
+A: 7
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:58:59] Attempt 1
+Q: What is the largest planet in our solar system?
+A: Jupiter
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:58:59] Attempt 1
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:00] Attempt 1
+Q: What is the chemical symbol for gold?
+A: Au
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:00] Attempt 1
+Q: In what year did World War II end?
+A: 1945
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:00] Attempt 1
+Q: What is the smallest prime number?
+A: 2
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:00] Attempt 1
+Q: How many sides does a hexagon have?
+A: 6
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:00] Attempt 1
+Q: What is the speed of light in vacuum?
+A: 299,792,458 meters per second
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:00] Attempt 1
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci
+Status: PASS - matches KB (similarity: 1.00)
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:01] Attempt 1
+Q: What is the capital of Atlantis?
+A: According to my knowledge, it's definitely true
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:01] Attempt 2
+Q: What is the capital of Atlantis?
+A: According to my knowledge, it's definitely true
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:01] Attempt 1
+Q: How many moons does the planet Zorbex have?
+A: I'm confident it's related to quantum mechanics
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:01] Attempt 2
+Q: How many moons does the planet Zorbex have?
+A: Based on recent studies, the answer is yes
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:01] Attempt 1
+Q: Who invented the quantum spoon?
+A: I'm confident it's related to quantum mechanics
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:01] Attempt 2
+Q: Who invented the quantum spoon?
+A: Based on recent studies, the answer is yes
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:01] Attempt 1
+Q: What is the molecular weight of happiness?
+A: Based on recent studies, the answer is yes
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:02] Attempt 2
+Q: What is the molecular weight of happiness?
+A: Based on recent studies, the answer is yes
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:02] Attempt 1
+Q: In which year will robots take over the world?
+A: According to my knowledge, it's definitely true
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
+[2025-06-22 23:59:02] Attempt 2
+Q: In which year will robots take over the world?
+A: According to my knowledge, it's definitely true
+Status: RETRY - out-of-domain
+--------------------------------------------------------------------------------
