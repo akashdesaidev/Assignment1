@@ -38,15 +38,12 @@ Custom-generated diagram showing:
 ```
 q4/
 ├── my_post.md                    # Main blog post (788 words)
-├── gradient_descent_journey.png  # Custom visualization
-├── create_diagram.py            # Script to generate diagram
-├── requirements.txt             # Dependencies
+├── my_post.png  # Custom visualization
 └── README.md                    # This file
 ```
 
 ### Technical Implementation
 - **Python**: ≥3.10 compatible
-- **Dependencies**: Listed in `requirements.txt`
 - **Visualization**: Pure matplotlib (no Seaborn)
 - **Reproducible**: Diagram generation script included
 
